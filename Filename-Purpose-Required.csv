@@ -1,0 +1,6 @@
+"File name","Purpose","Required?"
+"app.py","Main Streamlit application code for emotion detection","Yes"
+"requirements.txt","Tells Streamlit which Python libraries to install","Yes"
+"README.md","Project details, live-demo link, and documentation","Yes"
+"Screenshot images","Optional proof of working project","Optional"
+"Sample face images","Optional test images","Optional"
